@@ -1,3 +1,6 @@
+### live page 
+[numberFormatReact]("https://sureshpradhana.github.io/numberFormat/")
+
 ### Test File Location and Execution Instructions (Jest)
 
 The test file for your React component using Jest is located in the same directory as your JavaScript file, and it is named `App.test.js`. It contains tests for the `App` component.
