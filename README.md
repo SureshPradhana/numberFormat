@@ -1,5 +1,5 @@
 ### live page 
-[numberFormatReact]("https://sureshpradhana.github.io/numberFormat/")
+[numberFormatReact](https://sureshpradhana.github.io/numberFormat/)
 
 ### Test File Location and Execution Instructions (Jest)
 
